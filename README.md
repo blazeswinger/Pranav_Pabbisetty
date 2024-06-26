@@ -1,22 +1,16 @@
-# Pranav_Pabbisetty :wave:
+# Pranav Pabbisetty :wave:
 
 Hey, I'm Pranav! I currently attend the Illinois Math and Science Academy and want to pursue computer science as a career. This GitHub contains a few of my projects: some  for school, some for competitions, and some for fun.
 
 Current interests:
   - Algorithmic Trading 
-  - Computational science
-  - Robotics
-  - Algorithms 
+
 
 Skills:
-  - Python
-  - Java (Learning)
-  - C++ (Learning
+  - Python, Java, C++, C#
   - HTML/JS/CSS
   - LaTeX
 
-Social:
-  - Email: blazeswingerhd@gmail.com
+Reach me @:
+  - Email: ppabbisetty05@gmail.com
   - Phone: +1 (331)-302-1805
-  - Facebook: ppabbisetty22
-  - Instagram: pranav_pabbisetty
