@@ -1,6 +1,6 @@
 # Pranav Pabbisetty :wave:
 
-Hey, I'm Pranav! I currently attend the Illinois Math and Science Academy and want to pursue computer science as a career. This GitHub contains a few of my projects: some  for school, some for competitions, and some for fun.
+Hey, I'm Pranav! I currently attend the UW-Madison and want to pursue computer science as a career. This GitHub contains a few of my projects: some  for school, some for competitions, and some for fun.
 
 Current interests:
   - Algorithmic Trading 
